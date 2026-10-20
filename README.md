@@ -3,9 +3,11 @@
 AI Product Manager positioning computer vision and construction-tech products from idea to working MVP
 Bangalore · 2 years as a Technical Product Manager at Zyeta · IIT Roorkee
 
-I turn ambiguous operations problems into shippable AI products — scoping what a model can
-actually promise, building the dashboard and API around it, and being explicit about what's not
-implemented yet. Below are two of my own builds, end to end: product scope, architecture, and code.
+I own the product cycle end to end — talking to site teams to find the real operational problem,
+writing the requirements, setting the MVP boundary, and deciding what a model can responsibly
+promise versus what stays on the roadmap. I stay close enough to the build to ship it myself
+rather than hand off a spec and wait. Below are two products I've taken from problem statement to
+a working release: the requirements, the architecture decisions, and the code behind them.
 
 ## Featured Projects
 
