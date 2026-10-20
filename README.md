@@ -14,8 +14,7 @@ rather than hand off a spec and wait.
 | [VisionDetect](https://github.com/adb2003/VisionDetect) | Image-upload dashboard for construction-site object/PPE detection — upload a photo, run inference (fine-tuned YOLOv8 + open-vocabulary models), review detections, confidence, and class breakdowns. | FastAPI · ONNX Runtime · Ultralytics · React · TypeScript · Recharts | Product owner & builder |
 | [SiteScope 360](https://github.com/adb2003/sitescope-360) | Construction 360° site-capture and monitoring platform — floor plans, panorama walkthroughs, date-over-date comparison, coverage tracking, findings and reports. Built independently, no third-party vendor API. | FastAPI · PostgreSQL · Redis · React · TypeScript · Docker | Product owner & builder |
 
-> Scoped as products, not scripts: both ship with a stated MVP boundary — what's measured, what's
-> estimated, and what's explicitly not built yet.
+
 
 ## Also building
 
