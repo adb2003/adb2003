@@ -3,12 +3,10 @@
 AI Product Manager positioning computer vision and construction-tech products from idea to working MVP
 Bangalore · 2 years as a Technical Product Manager at Zyeta · IIT Roorkee
 
-I own the product cycle end to end — talking to site teams to find the real operational problem,
-writing the requirements, setting the MVP boundary, and deciding what a model can responsibly
+I own the product cycle end to end — talking to teams to find the real operational problem,
+writing the requirements and PRD's, setting the MVP boundary, and deciding what a model can responsibly
 promise versus what stays on the roadmap. I stay close enough to the build to ship it myself
-rather than hand off a spec and wait. Below are two products I've taken from problem statement to
-a working release: the requirements, the architecture decisions, and the code behind them.
-
+rather than hand off a spec and wait. 
 ## Featured Projects
 
 | Project | What it does | Stack | My role |
