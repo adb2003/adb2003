@@ -25,13 +25,13 @@ path-planning validation before anything moves on hardware.
 ## How I work
 
 - Start from the decision a feature needs to support, not the model that's available.
-- Say "unable to verify" instead of guessing — in both repos, confidence and provenance are
+- Say "unable to verify" instead of guessing , in both repos, confidence and provenance are
   first-class, not an afterthought.
 - Two years scoping and shipping AI-adjacent products at Zyeta, from floor-plan-literate
   construction tools to the vision models underneath them, after an engineering foundation built
   at IIT Roorkee.
 - Comfortable owning a product end to end: requirements, architecture, the model/engineering
-  trade-offs, and a working demo — not just the spec.
+  trade-offs, and a working demo , not just the spec.
 
 ## Let's talk
 
