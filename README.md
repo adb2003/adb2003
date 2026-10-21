@@ -1,7 +1,7 @@
 # Hey, I'm Aditya
 
 AI Product Manager positioning computer vision and construction-tech products from idea to working MVP
-Bangalore · 2 years as a Technical Product Manager at Zyeta · IIT Roorkee
+Bangalore · 1 year as a Technical Product Manager at Zyeta · IIT Roorkee
 
 I own the product cycle end to end — talking to teams to find the real operational problem,
 writing the requirements and PRD's, setting the MVP boundary, and deciding what a model can responsibly
